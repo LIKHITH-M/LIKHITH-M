@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:C62368&height=250&section=header&text=Likhith&fontSize=70&animation=twinkling&fontColor=ffffff" alt="Likhith profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:C62368&height=250&section=header&text=LIKHITH%20M&fontSize=70&animation=twinkling&fontColor=ffffff" alt="Likhith profile header" />
 </p>
 
 <!-- Title -->
 <h3 align="center">
     <samp>
         &gt; Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/likhith-gowda-m/">Likhith</a></b>
+        <b><a target="_blank" href="https://www.linkedin.com/in/likhith-gowda-m/">LIKHITH M</a></b>
     </samp>
 </h3>
 
@@ -85,7 +85,8 @@
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/LIKHITH-M)
 
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<div align="center">
+<table width="100%" border="0" cellspacing="10" cellpadding="0" align="center">
 <tr>
 
 <!-- LEFT: COLLAB -->
@@ -141,6 +142,7 @@ I'm open to collaborating on:
 
 </tr>
 </table>
+</div>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/LIKHITH-M)
 
