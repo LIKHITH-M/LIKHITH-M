@@ -92,7 +92,7 @@
 <tr>
 
 <!-- LEFT: COLLAB -->
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h2>🤝 Collaboration</h2>
 
@@ -109,15 +109,8 @@ I'm open to collaborating on:
 
 </td>
 
-<!-- MIDDLE: PANEL -->
-<td width="34%" align="center" valign="middle">
-    <a href="docs/COLLAB.md">
-        <img src="docs/img/collaboration_panel.svg" width="200px" alt="Collaboration navigation panel" />
-    </a>
-</td>
-
 <!-- RIGHT: CONTACT -->
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 <h2>📫 Contact</h2>
 
@@ -161,11 +154,7 @@ I'm open to collaborating on:
 Star ⭐ the repos if they helped you!
 </p>
 
-<p align="center">
-  <a href="./CODE_OF_CONDUCT.md">Code of Conduct</a> ·
-  <a href="./CONTRIBUTING.md">Collaboration</a> ·
-  <a href="./SECURITY.md">Security</a>
-</p>
+
 
 
 
