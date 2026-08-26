@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Likhith&fontSize=70&animation=twinkling" alt="Likhith profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:C62368&height=250&section=header&text=Likhith&fontSize=70&animation=twinkling&fontColor=ffffff" alt="Likhith profile header" />
 </p>
 
 <!-- Title -->
@@ -74,9 +74,6 @@
 ### 📊 Vital Statistics
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LIKHITH-M&theme=radical" alt="Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LIKHITH-M&theme=radical" alt="GitHub profile contribution summary" />
@@ -92,7 +89,7 @@
 <tr>
 
 <!-- LEFT: COLLAB -->
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <h2>🤝 Collaboration</h2>
 
@@ -148,23 +145,5 @@ I'm open to collaborating on:
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/LIKHITH-M)
 
 <p align="center">
-⚡ Building robust backend systems and solving problems one commit at a time
-</p>
-<p align="center">
-Star ⭐ the repos if they helped you!
-</p>
-
-
-
-
-
-<p align="center">
-    <a href="docs/hidden/easter_egg.md">
-        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
-    </a>
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:C62368&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
