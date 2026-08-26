@@ -31,43 +31,6 @@
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/LIKHITH-M)
 
-<!-- Title -->
-<p align="center">
-  <img src="./docs/img/system_access_title.svg" width="100%" alt="System access section title" />
-</p>
-
-<p align="center">
-
-<a href="https://github.com/LIKHITH-M">
-  <img width="82%" src="./docs/img/system/portal_main.svg" alt="Likhith System portal" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://leetcode.com/u/PARZIVAL_LGM_01/">
-  <img width="32%" src="./docs/img/system/neural_lab.svg" alt="LeetCode Profile" />
-</a>
-<a href="https://codolio.com/profile/parzival01">
-  <img width="32%" src="./docs/img/system/molecule_lab.svg" alt="Codolio Profile" />
-</a>
-<a href="https://github.com/LIKHITH-M?tab=repositories">
-  <img width="32%" src="./docs/img/system/model_forge.svg" alt="GitHub Repositories" />
-</a>
-
-</p>
-
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/LIKHITH-M)
-
-<p align="center">
-  <img src="./docs/img/profile_core.svg" width="100%" alt="System core panel" />
-</p>
-
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/LIKHITH-M)
-
 
 # 🛠 Technologies
 
